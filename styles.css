@@ -13,6 +13,6 @@ hr{
     width: 5%;
 }
 
-.table_item:nth-child(odd){
-    background: orange;
+.table_item:nth-child(even){
+    background: black;
 }
